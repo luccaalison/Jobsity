@@ -1,0 +1,23 @@
+﻿@page
+@model ChatMessage
+@{
+    ViewData["Title"] = "Chat";
+}
+
+<h1>Chat</h1>
+
+<div id="chatMessages">
+    <!-- Aqui serão exibidas as mensagens do chat -->
+</div>
+
+<div>
+    <input type="text" id="messageInput" />
+    <button onclick="sendMessage()">Send</button>
+</div>
+
+<script>
+    function sendMessage() {
+        var message = document.getElementById("messageInput").value;
+        // Enviar a mensagem para o servidor usando SignalR
+    }
+</script>

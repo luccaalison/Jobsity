@@ -1,0 +1,8 @@
+C:\Users\LUCCA\source\repos\ChatRoom\ChatRoom\obj\Debug\net8.0\ChatRoom.csproj.AssemblyReference.cache
+C:\Users\LUCCA\source\repos\ChatRoom\ChatRoom\obj\Debug\net8.0\ChatRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUCCA\source\repos\ChatRoom\ChatRoom\obj\Debug\net8.0\ChatRoom.AssemblyInfoInputs.cache
+C:\Users\LUCCA\source\repos\ChatRoom\ChatRoom\obj\Debug\net8.0\ChatRoom.AssemblyInfo.cs
+C:\Users\LUCCA\source\repos\ChatRoom\ChatRoom\obj\Debug\net8.0\ChatRoom.csproj.CoreCompileInputs.cache
+C:\Users\LUCCA\source\repos\ChatRoom\ChatRoom\obj\Debug\net8.0\ChatRoom.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LUCCA\source\repos\ChatRoom\ChatRoom\obj\Debug\net8.0\ChatRoom.RazorAssemblyInfo.cache
+C:\Users\LUCCA\source\repos\ChatRoom\ChatRoom\obj\Debug\net8.0\ChatRoom.RazorAssemblyInfo.cs
